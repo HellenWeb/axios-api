@@ -1,0 +1,25 @@
+{
+  "name": "axios-api",
+  "version": "1.0.0",
+  "description": "My first experience with the api with \"Axios\" 🔵",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellenWeb/axios-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellenWeb/axios-api/issues"
+  },
+  "homepage": "https://github.com/HellenWeb/axios-api#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0"
+  }
+}
